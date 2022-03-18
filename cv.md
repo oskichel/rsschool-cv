@@ -1,23 +1,27 @@
-#Elvina Kurseitova
-##Junior Frontend Developer
+# Elvina Kurseitova
+## Junior Frontend Developer
 
-##Contacts
-Location: Kazan, Russia
-Email: el.coloribus@gmail.com
-Discord: oskich#9848
-Telegram: oskich
+## Contacts
+**Location:** Kazan, Russia
 
-##About me
+**Email:** el.coloribus@gmail.com
+
+**Discord:** oskich#9848
+
+**Telegram:** oskich
+
+## About me
+
 My main goal is to become a better front end developer. Until I have no commercial experience in software development, but I do a lot of time on self-education.
 
-##Skills
-HTML5
-CSS3
-JavaScript
-React
-Git
+## Skills
+- HTML5
+- CSS3
+- JavaScript
+- React
+- Git
 
-##Code example
+## Code example
 ```
 'use strict';
 
@@ -33,12 +37,12 @@ function makeFibonacciFunction() {
 
 const fibonacci = makeFibonacciFunction();
 
-// Цикл для фибоначчи
+// Fibonacci loop
 /*for (let i = 0; i < 25; i++) {
     console.log(fibonacci());
 }*/
 
-// Просто вывод в консоль
+// Console output
 console.log(fibonacci());
 console.log(fibonacci());
 console.log(fibonacci());
@@ -49,12 +53,12 @@ console.log(fibonacci());
 console.log(fibonacci());
 ```
 
-##Education
-*"Front-end development" basic course at Innopolis University
-*"HTML & CSS" on Stepik
-*"JavaScript" by Vladilen Minin on Udemy (in progress)
-*"Javascript & React" by Ivan Petrichenko on Udemy (in progress)
+## Education
+* "Front-end development" basic course at Innopolis University
+* "HTML & CSS" on Stepik
+* "JavaScript" by Vladilen Minin on Udemy (in progress)
+* "Javascript & React" by Ivan Petrichenko on Udemy (in progress)
 
-##Languages
-English - Intermediate
-Russian - native
+## Languages
+- English - Intermediate
+- Russian - native
